@@ -3,8 +3,6 @@
 ## Qué he aprendido
 * Como usar GitHub para tener nuestro repositorio online y poder subir archivos automaticamente.
 * Saber crear documentos en markdown (para el portfolio en este caso).
-* Item 2a
-* Item 2b
   
 ## Qué no entiendo
 La verdad es que ha sido un tema muy sencillo y para mi en particular muy disfrutable. Me ha gustado y lo he entendido todo.
