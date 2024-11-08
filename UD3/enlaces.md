@@ -1,6 +1,6 @@
 # Índice de enlaces
 ## Ejercicios
-* [Presentación](https://www.canva.com/design/DAGSnZBgacc/Lq5FbKfgBdHv3u0y5AFesg/edit?authuser=0)
+* [Documentacion Práctica](https://github.com/Oscarsito49/prueba/blob/master/apache.md)
 
 ## Ayudas
-* [Implantación de Arquitecturas Web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web?authuser=0)
+* Están dentro de la práctica.
