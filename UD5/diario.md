@@ -1,18 +1,18 @@
 # UD5: Servidor Web
 
 ## Qué he aprendido
-* SSH
-* Comandos de SSH
-* Como conectarse en remoto a otro equipo
+* Servidor Web
+* Errores HTTP
+* Protocolos
   
 ## Qué no entiendo
-No entiendo muy bien como se crea la web remotamente. Aunque los pasos te lo explica y funciona no lo acabo de entender.
+Tema sencillo, lo he comprendido todo.
 
 ## Qué es lo que más me ha gustado y qué es lo que menos
 ### Lo que más me ha gustado:
-* La actividad en si, poder conectarse a otro equipo y hacer cosas desde el tuyo.
+* Hacer el poster, me gusta hacer cosas propias y personalizarlas.
 ### Lo que menos me ha gustado:
-* Lo mismo que la unidad anterior. Algun proceso u error que impide la instalación o el seguimiento de los pasos. Por el resto bien.
+* El tema de los expertos no me llega a gustar del todo.
 
 ## Qué más me gustaría saber relacionado con la Unidad
-A parte de crear un virtual host, poder hacer mas cosas en remoto como curiosidad.
+Me gustaria aprender mas sobre los protocolos, especificar más sobre este tema. Simplemente por curiosidad.
