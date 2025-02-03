@@ -1,4 +1,4 @@
-# UD6: Proyecto Final
+# UD7: Proyecto Final
 
 ## Qué he aprendido
 * Como crear y personalizar una página de Joomla.
