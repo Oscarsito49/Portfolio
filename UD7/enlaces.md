@@ -1,6 +1,6 @@
 # Índice de enlaces
 ## Ejercicios
-* [Web (aún no esta disponible) ]()
+* [Web](oscarjoomla.es)
 
 ## Ayudas
 * [Instalación](https://www.hostinger.es/tutoriales/tutorial-joomla-principiantes?authuser=0)
